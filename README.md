@@ -1,4 +1,4 @@
-## 🩺 Xray-Vision: Multimodal Interpretation of Chest X-Rays
+# 🩺 Xray-Vision: Multimodal Interpretation of Chest X-Rays
 Xray-Vision is a multimodal machine learning pipeline designed to assist in the interpretation of chest X-rays by combining unsupervised image clustering with natural language processing (NLP) techniques. This approach aims to make radiological insights more accessible, especially in settings with limited medical expertise.
 
 # 🔍 Project Overview
